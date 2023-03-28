@@ -6,5 +6,5 @@
 
 Сейчас я живу в Южной Корее, мечтаю работать в айти и иметь собственную винокурню 
 
-![Это место для моего фото](/Users/romanfilatov/Desktop/Фото Роман.JPG)
+![Это место для моего фото]([/Users/romanfilatov/Desktop/Фото Роман.JPG](https://prnt.sc/yagisllBZxOd))
 
