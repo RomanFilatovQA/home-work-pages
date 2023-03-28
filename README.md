@@ -1,3 +1,4 @@
+![Фото Роман](https://user-images.githubusercontent.com/126374924/228243610-482f1656-6d5f-441b-bdfc-d95b95f7f8fa.JPG)
 # hello, world 
 
 ## обо мне 
